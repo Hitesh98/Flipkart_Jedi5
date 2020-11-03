@@ -1,0 +1,10 @@
+business
+com.flipkart.app
+com.flipkart.bean
+com.flipkart.business
+com.flipkart.constants
+com.flipkart.dao
+com.flipkart.exception
+com.flipkart.rest
+com.flipkart.test
+com.flipkart.Utils

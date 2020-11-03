@@ -1,0 +1,1752 @@
+02:32:44,801  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:32:44,805  INFO SMSApplicationClient,main:50 - 1) login
+02:32:44,806  INFO SMSApplicationClient,main:51 - 2) student registration
+02:32:44,807  INFO SMSApplicationClient,main:52 - any other number to exist
+02:32:47,378  INFO SMSApplicationClient,main:107 - Enter username
+02:32:49,959  INFO SMSApplicationClient,main:109 - Enter password
+02:32:52,191 ERROR DBUtil,main:42 - com.mysql.jdbc.Driver
+02:32:52,193 ERROR AuthDAOImpl,main:44 - 
+02:32:52,193 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:32:52,194 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:32:52,194  INFO SMSApplicationClient,main:50 - 1) login
+02:32:52,195  INFO SMSApplicationClient,main:51 - 2) student registration
+02:32:52,196  INFO SMSApplicationClient,main:52 - any other number to exist
+02:34:40,443  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:34:40,447  INFO SMSApplicationClient,main:50 - 1) login
+02:34:40,447  INFO SMSApplicationClient,main:51 - 2) student registration
+02:34:40,447  INFO SMSApplicationClient,main:52 - any other number to exist
+02:34:42,048  INFO SMSApplicationClient,main:107 - Enter username
+02:34:44,224  INFO SMSApplicationClient,main:109 - Enter password
+02:34:46,146 ERROR DBUtil,main:42 - 
+02:34:46,147 ERROR AuthDAOImpl,main:44 - 
+02:34:46,148 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:34:46,148 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:34:46,148  INFO SMSApplicationClient,main:50 - 1) login
+02:34:46,149  INFO SMSApplicationClient,main:51 - 2) student registration
+02:34:46,149  INFO SMSApplicationClient,main:52 - any other number to exist
+02:35:17,627  INFO SMSApplicationClient,main:76 - Enter usrname of your choice : 
+02:35:23,612  INFO SMSApplicationClient,main:78 - Enter usrid of your choice : 
+02:35:28,891  INFO SMSApplicationClient,main:80 - Enter student id
+02:35:31,949  INFO SMSApplicationClient,main:82 - Enter student name
+02:35:36,924  INFO SMSApplicationClient,main:84 - Enter password
+02:35:41,830  INFO SMSApplicationClient,main:86 - Enter branch
+02:35:44,546  INFO SMSApplicationClient,main:88 - Enter gender: 'm' for male and 'f' for female
+02:35:47,238  INFO SMSApplicationClient,main:94 - Enter semester:
+02:35:48,954 ERROR DBUtil,main:42 - 
+02:35:48,955 ERROR AuthDAOImpl,main:149 - 
+02:35:48,955  INFO SMSApplicationClient,main:50 - 1) login
+02:35:48,956  INFO SMSApplicationClient,main:51 - 2) student registration
+02:35:48,956  INFO SMSApplicationClient,main:52 - any other number to exist
+02:36:17,435  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:36:17,439  INFO SMSApplicationClient,main:50 - 1) login
+02:36:17,439  INFO SMSApplicationClient,main:51 - 2) student registration
+02:36:17,440  INFO SMSApplicationClient,main:52 - any other number to exist
+02:36:24,610  INFO SMSApplicationClient,main:107 - Enter username
+02:36:27,730  INFO SMSApplicationClient,main:109 - Enter password
+02:36:29,825 ERROR DBUtil,main:42 - 
+02:36:51,399 ERROR AuthDAOImpl,main:44 - 
+02:36:51,411 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:36:51,412 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:36:51,413  INFO SMSApplicationClient,main:50 - 1) login
+02:36:51,413  INFO SMSApplicationClient,main:51 - 2) student registration
+02:36:51,414  INFO SMSApplicationClient,main:52 - any other number to exist
+02:36:55,298  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:36:55,302  INFO SMSApplicationClient,main:50 - 1) login
+02:36:55,303  INFO SMSApplicationClient,main:51 - 2) student registration
+02:36:55,304  INFO SMSApplicationClient,main:52 - any other number to exist
+02:36:56,943  INFO SMSApplicationClient,main:107 - Enter username
+02:36:58,943  INFO SMSApplicationClient,main:109 - Enter password
+02:37:00,514 ERROR DBUtil,main:42 - 
+02:37:24,767 ERROR AuthDAOImpl,main:44 - 
+02:37:24,768 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:37:24,769 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:37:24,769  INFO SMSApplicationClient,main:50 - 1) login
+02:37:24,770  INFO SMSApplicationClient,main:51 - 2) student registration
+02:37:24,770  INFO SMSApplicationClient,main:52 - any other number to exist
+02:37:28,661  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:37:28,666  INFO SMSApplicationClient,main:50 - 1) login
+02:37:28,666  INFO SMSApplicationClient,main:51 - 2) student registration
+02:37:28,666  INFO SMSApplicationClient,main:52 - any other number to exist
+02:37:30,790  INFO SMSApplicationClient,main:107 - Enter username
+02:37:33,323  INFO SMSApplicationClient,main:109 - Enter password
+02:38:18,599 ERROR DBUtil,main:42 - 
+02:38:18,609 ERROR AuthDAOImpl,main:44 - 
+02:38:18,611 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:38:18,612 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:38:18,613  INFO SMSApplicationClient,main:50 - 1) login
+02:38:18,614  INFO SMSApplicationClient,main:51 - 2) student registration
+02:38:18,615  INFO SMSApplicationClient,main:52 - any other number to exist
+02:38:23,977  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:38:23,981  INFO SMSApplicationClient,main:50 - 1) login
+02:38:23,982  INFO SMSApplicationClient,main:51 - 2) student registration
+02:38:23,982  INFO SMSApplicationClient,main:52 - any other number to exist
+02:38:25,913  INFO SMSApplicationClient,main:107 - Enter username
+02:38:28,089  INFO SMSApplicationClient,main:109 - Enter password
+02:40:02,222 ERROR DBUtil,main:42 - 
+02:40:02,238 ERROR AuthDAOImpl,main:44 - 
+02:40:02,238 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:40:02,239 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:40:02,240  INFO SMSApplicationClient,main:50 - 1) login
+02:40:02,241  INFO SMSApplicationClient,main:51 - 2) student registration
+02:40:02,242  INFO SMSApplicationClient,main:52 - any other number to exist
+02:40:07,027  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:40:07,031  INFO SMSApplicationClient,main:50 - 1) login
+02:40:07,032  INFO SMSApplicationClient,main:51 - 2) student registration
+02:40:07,032  INFO SMSApplicationClient,main:52 - any other number to exist
+02:40:12,365  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:40:12,369  INFO SMSApplicationClient,main:50 - 1) login
+02:40:12,370  INFO SMSApplicationClient,main:51 - 2) student registration
+02:40:12,371  INFO SMSApplicationClient,main:52 - any other number to exist
+02:40:13,925  INFO SMSApplicationClient,main:107 - Enter username
+02:40:15,913  INFO SMSApplicationClient,main:109 - Enter password
+02:40:42,806 ERROR DBUtil,main:42 - 
+02:40:42,821 ERROR AuthDAOImpl,main:44 - 
+02:40:42,823 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:40:42,825 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:40:42,826  INFO SMSApplicationClient,main:50 - 1) login
+02:40:42,827  INFO SMSApplicationClient,main:51 - 2) student registration
+02:40:42,828  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:17,257  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:43:17,261  INFO SMSApplicationClient,main:50 - 1) login
+02:43:17,262  INFO SMSApplicationClient,main:51 - 2) student registration
+02:43:17,262  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:19,102  INFO SMSApplicationClient,main:107 - Enter username
+02:43:21,078  INFO SMSApplicationClient,main:109 - Enter password
+02:43:29,493 ERROR DBUtil,main:42 - com.mysql.jdbc.Driver
+02:43:29,505 ERROR AuthDAOImpl,main:44 - 
+02:43:29,506 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:43:29,507 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:43:29,508  INFO SMSApplicationClient,main:50 - 1) login
+02:43:29,508  INFO SMSApplicationClient,main:51 - 2) student registration
+02:43:29,510  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:33,492  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:43:33,507  INFO SMSApplicationClient,main:50 - 1) login
+02:43:33,508  INFO SMSApplicationClient,main:51 - 2) student registration
+02:43:33,509  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:35,281  INFO SMSApplicationClient,main:107 - Enter username
+02:43:38,367  INFO SMSApplicationClient,main:109 - Enter password
+02:43:40,656 ERROR DBUtil,main:42 - com.mysql.jdbc.Driver
+02:43:40,657 ERROR AuthDAOImpl,main:44 - 
+02:43:40,657 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:43:40,657 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:43:40,658  INFO SMSApplicationClient,main:50 - 1) login
+02:43:40,658  INFO SMSApplicationClient,main:51 - 2) student registration
+02:43:40,658  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:55,812  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:43:55,816  INFO SMSApplicationClient,main:50 - 1) login
+02:43:55,816  INFO SMSApplicationClient,main:51 - 2) student registration
+02:43:55,817  INFO SMSApplicationClient,main:52 - any other number to exist
+02:43:57,785  INFO SMSApplicationClient,main:107 - Enter username
+02:43:59,847  INFO SMSApplicationClient,main:109 - Enter password
+02:45:50,982 ERROR DBUtil,main:42 - com.mysql.jdbc.Driver
+02:45:50,996 ERROR AuthDAOImpl,main:44 - 
+02:45:50,997 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+02:45:50,999 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+02:45:51,000  INFO SMSApplicationClient,main:50 - 1) login
+02:45:51,001  INFO SMSApplicationClient,main:51 - 2) student registration
+02:45:51,003  INFO SMSApplicationClient,main:52 - any other number to exist
+02:46:05,045  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+02:46:05,049  INFO SMSApplicationClient,main:50 - 1) login
+02:46:05,049  INFO SMSApplicationClient,main:51 - 2) student registration
+02:46:05,049  INFO SMSApplicationClient,main:52 - any other number to exist
+02:46:06,735  INFO SMSApplicationClient,main:107 - Enter username
+02:46:08,761  INFO SMSApplicationClient,main:109 - Enter password
+02:46:43,755  INFO SMSApplicationClient,main:118 - shubham logged in as Student
+02:46:43,822  INFO SMSApplicationClient,main:119 - shubham logged in at : Sun Nov 01 02:46:43 IST 2020
+02:46:43,860  INFO StudentApplicationClient,main:73 - Enter your choice:
+02:46:43,864  INFO StudentApplicationClient,main:74 - 1. View all courses
+02:46:43,870  INFO StudentApplicationClient,main:75 - 2. Select course
+02:46:43,875  INFO StudentApplicationClient,main:76 - 3. Drop course
+02:46:43,879  INFO StudentApplicationClient,main:77 - 4. View registered courses
+02:46:43,886  INFO StudentApplicationClient,main:78 - 5. Pay fees
+02:46:43,893  INFO StudentApplicationClient,main:79 - 6. View Report Card
+02:46:43,898  INFO StudentApplicationClient,main:80 - 0. Logout
+02:46:47,180  INFO UserServiceImpl,main:44 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+02:46:47,186  INFO StudentApplicationClient,main:73 - Enter your choice:
+02:46:47,191  INFO StudentApplicationClient,main:74 - 1. View all courses
+02:46:47,196  INFO StudentApplicationClient,main:75 - 2. Select course
+02:46:47,201  INFO StudentApplicationClient,main:76 - 3. Drop course
+02:46:47,206  INFO StudentApplicationClient,main:77 - 4. View registered courses
+02:46:47,211  INFO StudentApplicationClient,main:78 - 5. Pay fees
+02:46:47,218  INFO StudentApplicationClient,main:79 - 6. View Report Card
+02:46:47,224  INFO StudentApplicationClient,main:80 - 0. Logout
+02:46:51,687  INFO StudentServiceImpl,main:78 - 
+############# Registered Courses ################
++-----------+-----------------+
+| Course-Id | Course-Name     |
++-----------+-----------------+
+| 101       | Data Structures |
++-----------+-----------------+
+###################################################
+
+02:46:51,694  INFO StudentApplicationClient,main:73 - Enter your choice:
+02:46:51,699  INFO StudentApplicationClient,main:74 - 1. View all courses
+02:46:51,704  INFO StudentApplicationClient,main:75 - 2. Select course
+02:46:51,709  INFO StudentApplicationClient,main:76 - 3. Drop course
+02:46:51,714  INFO StudentApplicationClient,main:77 - 4. View registered courses
+02:46:51,718  INFO StudentApplicationClient,main:78 - 5. Pay fees
+02:46:51,724  INFO StudentApplicationClient,main:79 - 6. View Report Card
+02:46:51,729  INFO StudentApplicationClient,main:80 - 0. Logout
+12:59:07,372  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+12:59:07,389  INFO SMSApplicationClient,main:50 - 1) login
+12:59:07,389  INFO SMSApplicationClient,main:51 - 2) student registration
+12:59:07,390  INFO SMSApplicationClient,main:52 - any other number to exist
+12:59:17,951  INFO SMSApplicationClient,main:107 - Enter username
+12:59:22,189  INFO SMSApplicationClient,main:109 - Enter password
+12:59:24,578 ERROR AuthServiceImpl,main:31 - User does not existInvalid Credentials.
+12:59:24,579 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+12:59:24,579  INFO SMSApplicationClient,main:50 - 1) login
+12:59:24,579  INFO SMSApplicationClient,main:51 - 2) student registration
+12:59:24,579  INFO SMSApplicationClient,main:52 - any other number to exist
+13:00:01,277  INFO SMSApplicationClient,main:107 - Enter username
+13:00:06,669  INFO SMSApplicationClient,main:109 - Enter password
+13:00:08,797  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:00:08,797  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:00:08 IST 2020
+13:00:08,805  INFO AdminApplicationClient,main:67 - Enter your choice : 
+13:00:08,805  INFO AdminApplicationClient,main:68 - 1. View all courses
+13:00:08,806  INFO AdminApplicationClient,main:69 - 2. View all users
+13:00:08,806  INFO AdminApplicationClient,main:70 - 3. Assign course to a professor
+13:00:08,807  INFO AdminApplicationClient,main:71 - 4. Register new user
+13:00:08,807  INFO AdminApplicationClient,main:72 - 5. Delete user
+13:00:08,808  INFO AdminApplicationClient,main:73 - 6. Add new course
+13:00:08,808  INFO AdminApplicationClient,main:74 - 7. Drop course
+13:00:08,808  INFO AdminApplicationClient,main:75 - 0. Logout
+13:00:12,096  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+13:00:12,096  INFO AdminApplicationClient,main:67 - Enter your choice : 
+13:00:12,096  INFO AdminApplicationClient,main:68 - 1. View all courses
+13:00:12,097  INFO AdminApplicationClient,main:69 - 2. View all users
+13:00:12,097  INFO AdminApplicationClient,main:70 - 3. Assign course to a professor
+13:00:12,097  INFO AdminApplicationClient,main:71 - 4. Register new user
+13:00:12,097  INFO AdminApplicationClient,main:72 - 5. Delete user
+13:00:12,098  INFO AdminApplicationClient,main:73 - 6. Add new course
+13:00:12,098  INFO AdminApplicationClient,main:74 - 7. Drop course
+13:00:12,098  INFO AdminApplicationClient,main:75 - 0. Logout
+13:02:36,938  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+13:02:36,944  INFO SMSApplicationClient,main:50 - 1) login
+13:02:36,944  INFO SMSApplicationClient,main:51 - 2) student registration
+13:02:36,945  INFO SMSApplicationClient,main:52 - any other number to exist
+13:02:42,793  INFO SMSApplicationClient,main:107 - Enter username
+13:02:46,117  INFO SMSApplicationClient,main:109 - Enter password
+13:02:48,574  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:02:48,574  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:02:48 IST 2020
+13:02:48,587  INFO AdminApplicationClient,main:69 - Enter your choice : 
+13:02:48,588  INFO AdminApplicationClient,main:70 - 1. View all courses
+13:02:48,588  INFO AdminApplicationClient,main:71 - 2. View all users
+13:02:48,588  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+13:02:48,588  INFO AdminApplicationClient,main:73 - 4. Register new user
+13:02:48,589  INFO AdminApplicationClient,main:74 - 5. Delete user
+13:02:48,589  INFO AdminApplicationClient,main:75 - 6. Add new course
+13:02:48,589  INFO AdminApplicationClient,main:76 - 7. Drop course
+13:02:48,589  INFO AdminApplicationClient,main:77 - 8. Approve user
+13:02:48,590  INFO AdminApplicationClient,main:78 - 0. Logout
+13:02:53,105  INFO AdminApplicationClient,main:95 - Enter user id to approve user : 
+13:02:56,386  INFO SMSApplicationClient,main:162 - ##################### Logged out at: Mon Nov 02 13:02:56 IST 2020 ###################
+13:02:56,388  INFO SMSApplicationClient,main:50 - 1) login
+13:02:56,388  INFO SMSApplicationClient,main:51 - 2) student registration
+13:02:56,389  INFO SMSApplicationClient,main:52 - any other number to exist
+13:03:24,868  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+13:03:24,871  INFO SMSApplicationClient,main:50 - 1) login
+13:03:24,872  INFO SMSApplicationClient,main:51 - 2) student registration
+13:03:24,872  INFO SMSApplicationClient,main:52 - any other number to exist
+13:03:47,426  INFO SMSApplicationClient,main:107 - Enter username
+13:03:51,848  INFO SMSApplicationClient,main:109 - Enter password
+13:03:54,207 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+13:03:54,207 ERROR SMSApplicationClient,main:152 - No such user exists. Try Again!
+13:03:54,207  INFO SMSApplicationClient,main:50 - 1) login
+13:03:54,208  INFO SMSApplicationClient,main:51 - 2) student registration
+13:03:54,208  INFO SMSApplicationClient,main:52 - any other number to exist
+13:03:58,115  INFO SMSApplicationClient,main:107 - Enter username
+13:04:02,434  INFO SMSApplicationClient,main:109 - Enter password
+13:04:05,302  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:04:05,302  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:04:05 IST 2020
+13:04:05,356  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:04:05,357  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:04:05,357  INFO AdminApplicationClient,main:72 - 2. View all users
+13:04:05,357  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:04:05,358  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:04:05,358  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:04:05,359  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:04:05,359  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:04:05,359  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:04:05,360  INFO AdminApplicationClient,main:79 - 0. Logout
+13:04:10,561  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+13:04:29,588  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:04:29,589  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:04:29,589  INFO AdminApplicationClient,main:72 - 2. View all users
+13:04:29,589  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:04:29,590  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:04:29,590  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:04:29,590  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:04:29,591  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:04:29,591  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:04:29,591  INFO AdminApplicationClient,main:79 - 0. Logout
+13:04:34,642  INFO SMSApplicationClient,main:162 - ##################### Logged out at: Mon Nov 02 13:04:34 IST 2020 ###################
+13:04:34,643  INFO SMSApplicationClient,main:50 - 1) login
+13:04:34,643  INFO SMSApplicationClient,main:51 - 2) student registration
+13:04:34,644  INFO SMSApplicationClient,main:52 - any other number to exist
+13:04:36,258  INFO SMSApplicationClient,main:107 - Enter username
+13:04:39,072  INFO SMSApplicationClient,main:109 - Enter password
+13:04:41,560  INFO SMSApplicationClient,main:118 - nayaProf logged in as Professor
+13:04:41,561  INFO SMSApplicationClient,main:119 - nayaProf logged in at : Mon Nov 02 13:04:41 IST 2020
+13:04:41,583  INFO ProfessorApplicationClient,main:64 - Enter your choice:
+13:04:41,584  INFO ProfessorApplicationClient,main:65 - 1. View all courses
+13:04:41,584  INFO ProfessorApplicationClient,main:66 - 2. View assigned courses
+13:04:41,589  INFO ProfessorApplicationClient,main:67 - 3. View all students to teach
+13:04:41,589  INFO ProfessorApplicationClient,main:68 - 4. Grade student
+13:04:41,589  INFO ProfessorApplicationClient,main:69 - 0. Logout
+13:04:46,144  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+13:04:46,144  INFO ProfessorApplicationClient,main:64 - Enter your choice:
+13:04:46,144  INFO ProfessorApplicationClient,main:65 - 1. View all courses
+13:04:46,145  INFO ProfessorApplicationClient,main:66 - 2. View assigned courses
+13:04:46,145  INFO ProfessorApplicationClient,main:67 - 3. View all students to teach
+13:04:46,145  INFO ProfessorApplicationClient,main:68 - 4. Grade student
+13:04:46,145  INFO ProfessorApplicationClient,main:69 - 0. Logout
+13:43:11,851  INFO SMSApplicationClient,main:39 - Welcome to student management system!!
+13:43:11,855  INFO SMSApplicationClient,main:50 - 1) login
+13:43:11,856  INFO SMSApplicationClient,main:51 - 2) student registration
+13:43:11,856  INFO SMSApplicationClient,main:52 - any other number to exist
+13:43:14,260  INFO SMSApplicationClient,main:107 - Enter username
+13:43:24,098  INFO SMSApplicationClient,main:109 - Enter password
+13:43:26,637  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:43:26,637  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:43:26 IST 2020
+13:43:26,679  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:43:26,680  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:43:26,680  INFO AdminApplicationClient,main:72 - 2. View all users
+13:43:26,680  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:43:26,680  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:43:26,681  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:43:26,681  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:43:26,681  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:43:26,681  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:43:26,682  INFO AdminApplicationClient,main:79 - 0. Logout
+13:43:29,380  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+13:43:29,380  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:43:29,381  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:43:29,381  INFO AdminApplicationClient,main:72 - 2. View all users
+13:43:29,382  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:43:29,382  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:43:29,382  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:43:29,383  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:43:29,383  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:43:29,383  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:43:29,383  INFO AdminApplicationClient,main:79 - 0. Logout
+13:43:36,243  INFO AdminServiceImpl,main:112 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+13:43:36,244  INFO AdminServiceImpl,main:115 - 
+################## Professors ####################
++---------+------------+
+| User-ID | Username   |
++---------+------------+
+| 123     | doosraProf |
+| 1998    | nayaProf   |
++---------+------------+
+
+13:43:36,244  INFO AdminServiceImpl,main:118 - 
+################## Students ######################
++---------+--------------+
+| User-ID | Username     |
++---------+--------------+
+| 3456    | ShazamOnFire |
++---------+--------------+
+
+13:43:36,244  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:43:36,245  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:43:36,245  INFO AdminApplicationClient,main:72 - 2. View all users
+13:43:36,245  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:43:36,246  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:43:36,246  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:43:36,247  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:43:36,247  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:43:36,247  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:43:36,247  INFO AdminApplicationClient,main:79 - 0. Logout
+13:44:00,648  INFO SMSApplicationClient,main:162 - ##################### Logged out at: Mon Nov 02 13:44:00 IST 2020 ###################
+13:44:00,649  INFO SMSApplicationClient,main:50 - 1) login
+13:44:00,649  INFO SMSApplicationClient,main:51 - 2) student registration
+13:44:00,650  INFO SMSApplicationClient,main:52 - any other number to exist
+13:44:08,551  INFO SMSApplicationClient,main:107 - Enter username
+13:44:12,325  INFO SMSApplicationClient,main:109 - Enter password
+13:44:14,436  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:44:14,436  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:44:14 IST 2020
+13:44:14,437  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:44:14,437  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:44:14,437  INFO AdminApplicationClient,main:72 - 2. View all users
+13:44:14,437  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:44:14,437  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:44:14,437  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:44:14,442  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:44:14,442  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:44:14,442  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:44:14,442  INFO AdminApplicationClient,main:79 - 0. Logout
+13:44:18,998  INFO AdminApplicationClient,main:224 - Enter user id:
+13:44:45,355  INFO AdminServiceImpl,main:50 - The user with user ID 123 deleted
+13:44:45,355  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:44:45,356  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:44:45,356  INFO AdminApplicationClient,main:72 - 2. View all users
+13:44:45,356  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:44:45,357  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:44:45,357  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:44:45,357  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:44:45,357  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:44:45,357  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:44:45,357  INFO AdminApplicationClient,main:79 - 0. Logout
+13:44:45,358 ERROR SMSApplicationClient,main:152 - For input string: ""
+13:44:45,358  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:44:45,358  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:44:45,358  INFO AdminApplicationClient,main:72 - 2. View all users
+13:44:45,358  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:44:45,358  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:44:45,359  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:44:45,359  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:44:45,359  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:44:45,359  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:44:45,359  INFO AdminApplicationClient,main:79 - 0. Logout
+13:44:45,733 ERROR SMSApplicationClient,main:152 - For input string: ""
+13:44:45,733  INFO SMSApplicationClient,main:50 - 1) login
+13:44:45,734  INFO SMSApplicationClient,main:51 - 2) student registration
+13:44:45,734  INFO SMSApplicationClient,main:52 - any other number to exist
+13:46:13,665  INFO SMSApplicationClient,main:107 - Enter username
+13:46:21,075  INFO SMSApplicationClient,main:109 - Enter password
+13:46:23,997  INFO SMSApplicationClient,main:118 - teesraAdmin logged in as Admin
+13:46:23,998  INFO SMSApplicationClient,main:119 - teesraAdmin logged in at : Mon Nov 02 13:46:23 IST 2020
+13:46:23,998  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:46:23,998  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:46:23,998  INFO AdminApplicationClient,main:72 - 2. View all users
+13:46:23,999  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:46:23,999  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:46:23,999  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:46:23,999  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:46:24,000  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:46:24,000  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:46:24,000  INFO AdminApplicationClient,main:79 - 0. Logout
+13:46:30,519  INFO AdminApplicationClient,main:132 - 1 - add new admin
+13:46:30,520  INFO AdminApplicationClient,main:133 - 2 - add new professor
+13:46:30,520  INFO AdminApplicationClient,main:134 - 3 - add new student
+13:46:44,929  INFO AdminApplicationClient,main:136 - Enter username
+13:46:55,146  INFO AdminApplicationClient,main:138 - Enter userid
+13:47:03,511  INFO AdminApplicationClient,main:197 - Enter student id : 
+13:47:10,112  INFO AdminApplicationClient,main:199 - Enter student name : 
+13:47:21,549  INFO AdminApplicationClient,main:201 - Enter password : 
+13:47:29,415  INFO AdminApplicationClient,main:203 - Enter branch : 
+13:47:33,897  INFO AdminApplicationClient,main:205 - Enter semester:
+13:47:37,048  INFO AdminApplicationClient,main:207 - Enter gender: 'm' for male and 'f' for female
+13:47:39,024  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:47:39,024  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:47:39,024  INFO AdminApplicationClient,main:72 - 2. View all users
+13:47:39,024  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:47:39,024  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:47:39,025  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:47:39,025  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:47:39,025  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:47:39,025  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:47:39,026  INFO AdminApplicationClient,main:79 - 0. Logout
+13:47:45,480  INFO AdminServiceImpl,main:112 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+13:47:45,480  INFO AdminServiceImpl,main:115 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+13:47:45,481  INFO AdminServiceImpl,main:118 - 
+################## Students ######################
++----------+--------------+
+| User-ID  | Username     |
++----------+--------------+
+| 3456     | ShazamOnFire |
+| 12345678 | Beelzubub    |
++----------+--------------+
+
+13:47:45,481  INFO AdminApplicationClient,main:70 - Enter your choice : 
+13:47:45,481  INFO AdminApplicationClient,main:71 - 1. View all courses
+13:47:45,481  INFO AdminApplicationClient,main:72 - 2. View all users
+13:47:45,482  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+13:47:45,482  INFO AdminApplicationClient,main:74 - 4. Register new user
+13:47:45,482  INFO AdminApplicationClient,main:75 - 5. Delete user
+13:47:45,482  INFO AdminApplicationClient,main:76 - 6. Add new course
+13:47:45,483  INFO AdminApplicationClient,main:77 - 7. Drop course
+13:47:45,483  INFO AdminApplicationClient,main:78 - 8. Approve user
+13:47:45,483  INFO AdminApplicationClient,main:79 - 0. Logout
+14:06:46,835  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:06:46,839  INFO SMSApplicationClient,main:51 - 1) login
+14:06:46,840  INFO SMSApplicationClient,main:52 - 2) student registration
+14:06:46,842  INFO SMSApplicationClient,main:53 - any other number to exist
+14:06:54,685  INFO SMSApplicationClient,main:77 - Enter usrname of your choice : 
+14:07:05,352  INFO SMSApplicationClient,main:81 - Enter student id
+14:07:15,185  INFO SMSApplicationClient,main:83 - Enter student name
+14:07:20,344  INFO SMSApplicationClient,main:85 - Enter password
+14:07:23,575  INFO SMSApplicationClient,main:87 - Enter branch
+14:07:30,272  INFO SMSApplicationClient,main:89 - Enter gender: 'm' for male and 'f' for female
+14:07:32,695  INFO SMSApplicationClient,main:95 - Enter semester:
+14:07:35,207  INFO SMSApplicationClient,main:100 - Student registered successfully!
+14:07:35,208  INFO SMSApplicationClient,main:51 - 1) login
+14:07:35,209  INFO SMSApplicationClient,main:52 - 2) student registration
+14:07:35,209  INFO SMSApplicationClient,main:53 - any other number to exist
+14:07:38,554  INFO SMSApplicationClient,main:108 - Enter username
+14:07:47,912  INFO SMSApplicationClient,main:110 - Enter password
+14:08:00,225 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:08:00,226 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:08:00,227  INFO SMSApplicationClient,main:51 - 1) login
+14:08:00,227  INFO SMSApplicationClient,main:52 - 2) student registration
+14:08:00,227  INFO SMSApplicationClient,main:53 - any other number to exist
+14:08:38,535  INFO SMSApplicationClient,main:108 - Enter username
+14:08:39,963  INFO SMSApplicationClient,main:110 - Enter password
+14:08:41,940 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:08:41,941 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:08:41,941  INFO SMSApplicationClient,main:51 - 1) login
+14:08:41,942  INFO SMSApplicationClient,main:52 - 2) student registration
+14:08:41,943  INFO SMSApplicationClient,main:53 - any other number to exist
+14:10:20,697  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:10:20,705  INFO SMSApplicationClient,main:51 - 1) login
+14:10:20,706  INFO SMSApplicationClient,main:52 - 2) student registration
+14:10:20,707  INFO SMSApplicationClient,main:53 - any other number to exist
+14:10:23,194  INFO SMSApplicationClient,main:108 - Enter username
+14:10:28,256  INFO SMSApplicationClient,main:110 - Enter password
+14:11:58,814 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:11:58,821 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:11:58,827  INFO SMSApplicationClient,main:51 - 1) login
+14:11:58,827  INFO SMSApplicationClient,main:52 - 2) student registration
+14:11:58,828  INFO SMSApplicationClient,main:53 - any other number to exist
+14:13:01,433  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:13:01,437  INFO SMSApplicationClient,main:51 - 1) login
+14:13:01,438  INFO SMSApplicationClient,main:52 - 2) student registration
+14:13:01,438  INFO SMSApplicationClient,main:53 - any other number to exist
+14:13:03,381  INFO SMSApplicationClient,main:108 - Enter username
+14:13:05,663  INFO SMSApplicationClient,main:110 - Enter password
+14:13:07,484 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:13:07,484 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:13:07,485  INFO SMSApplicationClient,main:51 - 1) login
+14:13:07,485  INFO SMSApplicationClient,main:52 - 2) student registration
+14:13:07,485  INFO SMSApplicationClient,main:53 - any other number to exist
+14:19:12,759  INFO SMSApplicationClient,main:108 - Enter username
+14:19:16,230  INFO SMSApplicationClient,main:110 - Enter password
+14:19:19,400 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:19:19,400 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:19:19,400  INFO SMSApplicationClient,main:51 - 1) login
+14:19:19,401  INFO SMSApplicationClient,main:52 - 2) student registration
+14:19:19,401  INFO SMSApplicationClient,main:53 - any other number to exist
+14:19:21,011  INFO SMSApplicationClient,main:108 - Enter username
+14:19:26,178  INFO SMSApplicationClient,main:110 - Enter password
+14:19:28,633  INFO SMSApplicationClient,main:119 - teesraAdmin logged in as Admin
+14:19:28,634  INFO SMSApplicationClient,main:120 - teesraAdmin logged in at : Mon Nov 02 14:19:28 IST 2020
+14:19:28,647  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:19:28,647  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:19:28,648  INFO AdminApplicationClient,main:72 - 2. View all users
+14:19:28,648  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:19:28,648  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:19:28,648  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:19:28,649  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:19:28,649  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:19:28,650  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:19:28,650  INFO AdminApplicationClient,main:79 - 0. Logout
+14:19:32,580 ERROR AdminDAOImpl,main:42 - '7.727410592164823E17' in column '1' is outside valid range for the datatype INTEGER.
+14:19:32,590  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+14:19:32,591  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+14:19:32,591  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++----------+--------------+
+| User-ID  | Username     |
++----------+--------------+
+| 3456     | ShazamOnFire |
+| 12345678 | Beelzubub    |
++----------+--------------+
+
+14:19:32,592  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:19:32,592  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:19:32,592  INFO AdminApplicationClient,main:72 - 2. View all users
+14:19:32,593  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:19:32,593  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:19:32,593  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:19:32,593  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:19:32,594  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:19:32,594  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:19:32,594  INFO AdminApplicationClient,main:79 - 0. Logout
+14:20:30,017  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+14:20:32,187 ERROR SMSApplicationClient,main:153 - For input string: "772741059216482304"
+14:20:32,187  INFO SMSApplicationClient,main:51 - 1) login
+14:20:32,188  INFO SMSApplicationClient,main:52 - 2) student registration
+14:20:32,188  INFO SMSApplicationClient,main:53 - any other number to exist
+14:35:10,945  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:35:10,949  INFO SMSApplicationClient,main:51 - 1) login
+14:35:10,949  INFO SMSApplicationClient,main:52 - 2) student registration
+14:35:10,949  INFO SMSApplicationClient,main:53 - any other number to exist
+14:35:14,638  INFO SMSApplicationClient,main:108 - Enter username
+14:35:18,217  INFO SMSApplicationClient,main:110 - Enter password
+14:35:20,485  INFO SMSApplicationClient,main:119 - teesraAdmin logged in as Admin
+14:35:20,485  INFO SMSApplicationClient,main:120 - teesraAdmin logged in at : Mon Nov 02 14:35:20 IST 2020
+14:35:20,500  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:35:20,500  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:35:20,501  INFO AdminApplicationClient,main:72 - 2. View all users
+14:35:20,501  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:35:20,501  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:35:20,501  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:35:20,501  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:35:20,502  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:35:20,502  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:35:20,502  INFO AdminApplicationClient,main:79 - 0. Logout
+14:35:23,504  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+14:35:23,505  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:35:23,505  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:35:23,506  INFO AdminApplicationClient,main:72 - 2. View all users
+14:35:23,506  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:35:23,506  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:35:23,506  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:35:23,507  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:35:23,507  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:35:23,507  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:35:23,508  INFO AdminApplicationClient,main:79 - 0. Logout
+14:35:25,335  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+14:35:25,335  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+14:35:25,336  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++----------+--------------+
+| User-ID  | Username     |
++----------+--------------+
+| 3456     | ShazamOnFire |
+| 12345678 | Beelzubub    |
++----------+--------------+
+
+14:35:25,336  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:35:25,336  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:35:25,337  INFO AdminApplicationClient,main:72 - 2. View all users
+14:35:25,337  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:35:25,337  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:35:25,338  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:35:25,338  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:35:25,338  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:35:25,338  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:35:25,338  INFO AdminApplicationClient,main:79 - 0. Logout
+14:35:32,140  INFO SMSApplicationClient,main:163 - ##################### Logged out at: Mon Nov 02 14:35:32 IST 2020 ###################
+14:35:32,141  INFO SMSApplicationClient,main:51 - 1) login
+14:35:32,141  INFO SMSApplicationClient,main:52 - 2) student registration
+14:35:32,142  INFO SMSApplicationClient,main:53 - any other number to exist
+14:37:26,133  INFO SMSApplicationClient,main:108 - Enter username
+14:37:32,960  INFO SMSApplicationClient,main:110 - Enter password
+14:37:35,721 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:37:35,721 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:37:35,722  INFO SMSApplicationClient,main:51 - 1) login
+14:37:35,722  INFO SMSApplicationClient,main:52 - 2) student registration
+14:37:35,722  INFO SMSApplicationClient,main:53 - any other number to exist
+14:38:24,665  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:38:24,670  INFO SMSApplicationClient,main:51 - 1) login
+14:38:24,671  INFO SMSApplicationClient,main:52 - 2) student registration
+14:38:24,672  INFO SMSApplicationClient,main:53 - any other number to exist
+14:38:26,599  INFO SMSApplicationClient,main:108 - Enter username
+14:38:30,981  INFO SMSApplicationClient,main:110 - Enter password
+14:38:33,412  INFO SMSApplicationClient,main:119 - teesraAdmin logged in as Admin
+14:38:33,412  INFO SMSApplicationClient,main:120 - teesraAdmin logged in at : Mon Nov 02 14:38:33 IST 2020
+14:38:33,426  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:38:33,426  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:38:33,426  INFO AdminApplicationClient,main:72 - 2. View all users
+14:38:33,426  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:38:33,427  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:38:33,427  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:38:33,427  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:38:33,428  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:38:33,428  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:38:33,429  INFO AdminApplicationClient,main:79 - 0. Logout
+14:38:35,863  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+14:38:39,416  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:38:39,417  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:38:39,417  INFO AdminApplicationClient,main:72 - 2. View all users
+14:38:39,417  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:38:39,418  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:38:39,418  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:38:39,418  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:38:39,418  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:38:39,419  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:38:39,419  INFO AdminApplicationClient,main:79 - 0. Logout
+14:38:44,297  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+14:38:44,297  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+14:38:44,298  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++----------+--------------+
+| User-ID  | Username     |
++----------+--------------+
+| 3456     | ShazamOnFire |
+| 12345678 | Beelzubub    |
++----------+--------------+
+
+14:38:44,298  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:38:44,298  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:38:44,298  INFO AdminApplicationClient,main:72 - 2. View all users
+14:38:44,299  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:38:44,299  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:38:44,300  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:38:44,300  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:38:44,300  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:38:44,301  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:38:44,301  INFO AdminApplicationClient,main:79 - 0. Logout
+14:38:48,173  INFO SMSApplicationClient,main:163 - ##################### Logged out at: Mon Nov 02 14:38:48 IST 2020 ###################
+14:38:48,173  INFO SMSApplicationClient,main:51 - 1) login
+14:38:48,174  INFO SMSApplicationClient,main:52 - 2) student registration
+14:38:48,174  INFO SMSApplicationClient,main:53 - any other number to exist
+14:38:49,788  INFO SMSApplicationClient,main:108 - Enter username
+14:39:01,133  INFO SMSApplicationClient,main:110 - Enter password
+14:39:06,167  INFO SMSApplicationClient,main:119 - Beelzubub logged in as Student
+14:39:06,167  INFO SMSApplicationClient,main:120 - Beelzubub logged in at : Mon Nov 02 14:39:06 IST 2020
+14:39:06,181  INFO StudentApplicationClient,main:73 - Enter your choice:
+14:39:06,181  INFO StudentApplicationClient,main:74 - 1. View all courses
+14:39:06,181  INFO StudentApplicationClient,main:75 - 2. Select course
+14:39:06,181  INFO StudentApplicationClient,main:76 - 3. Drop course
+14:39:06,182  INFO StudentApplicationClient,main:77 - 4. View registered courses
+14:39:06,182  INFO StudentApplicationClient,main:78 - 5. Pay fees
+14:39:06,183  INFO StudentApplicationClient,main:79 - 6. View Report Card
+14:39:06,183  INFO StudentApplicationClient,main:80 - 0. Logout
+14:39:10,017  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+14:39:10,017  INFO StudentApplicationClient,main:73 - Enter your choice:
+14:39:10,017  INFO StudentApplicationClient,main:74 - 1. View all courses
+14:39:10,018  INFO StudentApplicationClient,main:75 - 2. Select course
+14:39:10,018  INFO StudentApplicationClient,main:76 - 3. Drop course
+14:39:10,018  INFO StudentApplicationClient,main:77 - 4. View registered courses
+14:39:10,018  INFO StudentApplicationClient,main:78 - 5. Pay fees
+14:39:10,018  INFO StudentApplicationClient,main:79 - 6. View Report Card
+14:39:10,018  INFO StudentApplicationClient,main:80 - 0. Logout
+14:39:12,471  INFO StudentServiceImpl,main:65 - No registered courses
+14:39:12,471  INFO StudentApplicationClient,main:73 - Enter your choice:
+14:39:12,471  INFO StudentApplicationClient,main:74 - 1. View all courses
+14:39:12,472  INFO StudentApplicationClient,main:75 - 2. Select course
+14:39:12,472  INFO StudentApplicationClient,main:76 - 3. Drop course
+14:39:12,472  INFO StudentApplicationClient,main:77 - 4. View registered courses
+14:39:12,473  INFO StudentApplicationClient,main:78 - 5. Pay fees
+14:39:12,473  INFO StudentApplicationClient,main:79 - 6. View Report Card
+14:39:12,473  INFO StudentApplicationClient,main:80 - 0. Logout
+14:39:21,826  INFO StudentApplicationClient,main:113 - To pay Rs.0 press 'y' to continue else press 'n'...
+14:39:25,646  INFO StudentApplicationClient,main:127 - Payment Unsuccessful
+14:39:25,647  INFO StudentApplicationClient,main:73 - Enter your choice:
+14:39:25,647  INFO StudentApplicationClient,main:74 - 1. View all courses
+14:39:25,647  INFO StudentApplicationClient,main:75 - 2. Select course
+14:39:25,648  INFO StudentApplicationClient,main:76 - 3. Drop course
+14:39:25,648  INFO StudentApplicationClient,main:77 - 4. View registered courses
+14:39:25,648  INFO StudentApplicationClient,main:78 - 5. Pay fees
+14:39:25,648  INFO StudentApplicationClient,main:79 - 6. View Report Card
+14:39:25,648  INFO StudentApplicationClient,main:80 - 0. Logout
+14:41:36,620  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:41:36,624  INFO SMSApplicationClient,main:51 - 1) login
+14:41:36,625  INFO SMSApplicationClient,main:52 - 2) student registration
+14:41:36,625  INFO SMSApplicationClient,main:53 - any other number to exist
+14:41:38,335  INFO SMSApplicationClient,main:108 - Enter username
+14:41:39,333  INFO SMSApplicationClient,main:110 - Enter password
+14:41:41,302 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:41:41,302 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:41:41,303  INFO SMSApplicationClient,main:51 - 1) login
+14:41:41,303  INFO SMSApplicationClient,main:52 - 2) student registration
+14:41:41,303  INFO SMSApplicationClient,main:53 - any other number to exist
+14:41:45,466  INFO SMSApplicationClient,main:108 - Enter username
+14:42:11,467  INFO SMSApplicationClient,main:110 - Enter password
+14:42:16,560 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+14:42:16,561 ERROR SMSApplicationClient,main:153 - No such user exists. Try Again!
+14:42:16,561  INFO SMSApplicationClient,main:51 - 1) login
+14:42:16,561  INFO SMSApplicationClient,main:52 - 2) student registration
+14:42:16,561  INFO SMSApplicationClient,main:53 - any other number to exist
+14:47:49,951  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+14:47:49,955  INFO SMSApplicationClient,main:51 - 1) login
+14:47:49,956  INFO SMSApplicationClient,main:52 - 2) student registration
+14:47:49,956  INFO SMSApplicationClient,main:53 - any other number to exist
+14:47:52,643  INFO SMSApplicationClient,main:77 - Enter usrname of your choice : 
+14:47:57,687  INFO SMSApplicationClient,main:79 - Enter userid of your choice : 
+14:48:16,595  INFO SMSApplicationClient,main:84 - Enter student name
+14:48:22,818  INFO SMSApplicationClient,main:86 - Enter password
+14:48:25,922  INFO SMSApplicationClient,main:88 - Enter branch
+14:48:30,270  INFO SMSApplicationClient,main:90 - Enter gender: 'm' for male and 'f' for female
+14:48:31,866  INFO SMSApplicationClient,main:96 - Enter semester:
+14:48:34,610  INFO SMSApplicationClient,main:101 - Student registered successfully!
+14:48:34,610  INFO SMSApplicationClient,main:51 - 1) login
+14:48:34,611  INFO SMSApplicationClient,main:52 - 2) student registration
+14:48:34,611  INFO SMSApplicationClient,main:53 - any other number to exist
+14:48:37,299  INFO SMSApplicationClient,main:109 - Enter username
+14:48:40,896  INFO SMSApplicationClient,main:111 - Enter password
+14:48:43,983  INFO SMSApplicationClient,main:120 - teesraAdmin logged in as Admin
+14:48:43,983  INFO SMSApplicationClient,main:121 - teesraAdmin logged in at : Mon Nov 02 14:48:43 IST 2020
+14:48:43,990  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:48:43,990  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:48:43,991  INFO AdminApplicationClient,main:72 - 2. View all users
+14:48:43,991  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:48:43,991  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:48:43,991  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:48:43,992  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:48:43,992  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:48:43,993  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:48:43,993  INFO AdminApplicationClient,main:79 - 0. Logout
+14:48:45,843  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+14:48:45,843  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+14:48:45,843  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++-------------+--------------+
+| User-ID     | Username     |
++-------------+--------------+
+| -1812652032 | check3       |
+| 3456        | ShazamOnFire |
+| 12345678    | Beelzubub    |
++-------------+--------------+
+
+14:48:45,844  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:48:45,844  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:48:45,844  INFO AdminApplicationClient,main:72 - 2. View all users
+14:48:45,844  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:48:45,844  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:48:45,844  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:48:45,845  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:48:45,845  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:48:45,845  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:48:45,845  INFO AdminApplicationClient,main:79 - 0. Logout
+14:49:00,044  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+14:49:02,354  INFO AdminApplicationClient,main:70 - Enter your choice : 
+14:49:02,354  INFO AdminApplicationClient,main:71 - 1. View all courses
+14:49:02,354  INFO AdminApplicationClient,main:72 - 2. View all users
+14:49:02,355  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+14:49:02,355  INFO AdminApplicationClient,main:74 - 4. Register new user
+14:49:02,355  INFO AdminApplicationClient,main:75 - 5. Delete user
+14:49:02,355  INFO AdminApplicationClient,main:76 - 6. Add new course
+14:49:02,355  INFO AdminApplicationClient,main:77 - 7. Drop course
+14:49:02,355  INFO AdminApplicationClient,main:78 - 8. Approve user
+14:49:02,355  INFO AdminApplicationClient,main:79 - 0. Logout
+14:49:07,351  INFO SMSApplicationClient,main:164 - ##################### Logged out at: Mon Nov 02 14:49:07 IST 2020 ###################
+14:49:07,351  INFO SMSApplicationClient,main:51 - 1) login
+14:49:07,351  INFO SMSApplicationClient,main:52 - 2) student registration
+14:49:07,351  INFO SMSApplicationClient,main:53 - any other number to exist
+14:49:08,904  INFO SMSApplicationClient,main:109 - Enter username
+14:49:11,175  INFO SMSApplicationClient,main:111 - Enter password
+14:49:13,444  INFO SMSApplicationClient,main:120 - check3 logged in as Student
+14:49:13,444  INFO SMSApplicationClient,main:121 - check3 logged in at : Mon Nov 02 14:49:13 IST 2020
+14:49:13,451  INFO StudentApplicationClient,main:73 - Enter your choice:
+14:49:13,451  INFO StudentApplicationClient,main:74 - 1. View all courses
+14:49:13,451  INFO StudentApplicationClient,main:75 - 2. Select course
+14:49:13,452  INFO StudentApplicationClient,main:76 - 3. Drop course
+14:49:13,452  INFO StudentApplicationClient,main:77 - 4. View registered courses
+14:49:13,452  INFO StudentApplicationClient,main:78 - 5. Pay fees
+14:49:13,452  INFO StudentApplicationClient,main:79 - 6. View Report Card
+14:49:13,452  INFO StudentApplicationClient,main:80 - 0. Logout
+16:58:24,072  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+16:58:24,081  INFO SMSApplicationClient,main:51 - 1) login
+16:58:24,081  INFO SMSApplicationClient,main:52 - 2) student registration
+16:58:24,081  INFO SMSApplicationClient,main:53 - any other number to exist
+17:01:15,697  INFO SMSApplicationClient,main:110 - Enter username
+17:01:20,917  INFO SMSApplicationClient,main:112 - Enter password
+17:01:23,734  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+17:01:23,734  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 17:01:23 IST 2020
+17:01:23,752  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:01:23,752  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:01:23,753  INFO AdminApplicationClient,main:72 - 2. View all users
+17:01:23,753  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:01:23,753  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:01:23,754  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:01:23,754  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:01:23,754  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:01:23,754  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:01:23,756  INFO AdminApplicationClient,main:79 - 0. Logout
+17:01:25,951  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+17:01:25,952  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:01:25,952  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:01:25,952  INFO AdminApplicationClient,main:72 - 2. View all users
+17:01:25,953  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:01:25,953  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:01:25,953  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:01:25,956  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:01:25,958  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:01:25,958  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:01:25,959  INFO AdminApplicationClient,main:79 - 0. Logout
+17:01:30,412  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+17:01:30,412  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+17:01:30,413  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++-------------+--------------+
+| User-ID     | Username     |
++-------------+--------------+
+| -1812652032 | check3       |
+| 3456        | ShazamOnFire |
+| 12345678    | Beelzubub    |
++-------------+--------------+
+
+17:01:30,413  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:01:30,417  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:01:30,418  INFO AdminApplicationClient,main:72 - 2. View all users
+17:01:30,418  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:01:30,419  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:01:30,419  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:01:30,419  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:01:30,420  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:01:30,421  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:01:30,421  INFO AdminApplicationClient,main:79 - 0. Logout
+17:01:48,089  INFO AdminApplicationClient,main:132 - 1 - add new admin
+17:01:48,090  INFO AdminApplicationClient,main:133 - 2 - add new professor
+17:01:48,090  INFO AdminApplicationClient,main:134 - 3 - add new student
+17:01:51,980  INFO AdminApplicationClient,main:136 - Enter username
+17:01:56,448  INFO AdminApplicationClient,main:138 - Enter userid
+17:02:04,674 ERROR SMSApplicationClient,main:155 - For input string: "as"
+17:02:04,675  INFO SMSApplicationClient,main:51 - 1) login
+17:02:04,675  INFO SMSApplicationClient,main:52 - 2) student registration
+17:02:04,675  INFO SMSApplicationClient,main:53 - any other number to exist
+17:02:09,980  INFO SMSApplicationClient,main:110 - Enter username
+17:02:21,770  INFO SMSApplicationClient,main:112 - Enter password
+17:02:22,822 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+17:02:22,823 ERROR SMSApplicationClient,main:155 - No such user exists. Try Again!
+17:02:22,823  INFO SMSApplicationClient,main:51 - 1) login
+17:02:22,824  INFO SMSApplicationClient,main:52 - 2) student registration
+17:02:22,824  INFO SMSApplicationClient,main:53 - any other number to exist
+17:02:25,218  INFO SMSApplicationClient,main:77 - Enter usrname of your choice : 
+17:02:28,711  INFO SMSApplicationClient,main:82 - Enter student id
+17:02:32,735  INFO SMSApplicationClient,main:85 - Enter student name
+17:02:36,993  INFO SMSApplicationClient,main:87 - Enter password
+17:02:40,604  INFO SMSApplicationClient,main:89 - Enter branch
+17:02:43,960  INFO SMSApplicationClient,main:91 - Enter gender: 'm' for male and 'f' for female
+17:02:46,273  INFO SMSApplicationClient,main:97 - Enter semester:
+17:02:48,252  INFO SMSApplicationClient,main:102 - Student registered successfully!
+17:02:48,252  INFO SMSApplicationClient,main:51 - 1) login
+17:02:48,253  INFO SMSApplicationClient,main:52 - 2) student registration
+17:02:48,253  INFO SMSApplicationClient,main:53 - any other number to exist
+17:02:52,390  INFO SMSApplicationClient,main:110 - Enter username
+17:02:56,683  INFO SMSApplicationClient,main:112 - Enter password
+17:02:59,963  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+17:02:59,964  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 17:02:59 IST 2020
+17:02:59,964  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:02:59,964  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:02:59,965  INFO AdminApplicationClient,main:72 - 2. View all users
+17:02:59,965  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:02:59,965  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:02:59,965  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:02:59,966  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:02:59,966  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:02:59,966  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:02:59,966  INFO AdminApplicationClient,main:79 - 0. Logout
+17:03:02,335 ERROR AdminDAOImpl,main:42 - '7.7278519738742374E17' in column '1' is outside valid range for the datatype INTEGER.
+17:03:02,337  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+17:03:02,337  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+17:03:02,338  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++-------------+--------------+
+| User-ID     | Username     |
++-------------+--------------+
+| -1812652032 | check3       |
+| 3456        | ShazamOnFire |
+| 12345678    | Beelzubub    |
++-------------+--------------+
+
+17:03:02,338  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:03:02,338  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:03:02,339  INFO AdminApplicationClient,main:72 - 2. View all users
+17:03:02,339  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:03:02,339  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:03:02,339  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:03:02,339  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:03:02,340  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:03:02,340  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:03:02,340  INFO AdminApplicationClient,main:79 - 0. Logout
+17:09:47,741  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+17:09:47,746  INFO SMSApplicationClient,main:51 - 1) login
+17:09:47,746  INFO SMSApplicationClient,main:52 - 2) student registration
+17:09:47,746  INFO SMSApplicationClient,main:53 - any other number to exist
+17:10:15,959  INFO SMSApplicationClient,main:110 - Enter username
+17:10:19,240  INFO SMSApplicationClient,main:112 - Enter password
+17:10:21,699  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+17:10:21,699  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 17:10:21 IST 2020
+17:10:21,715  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:10:21,716  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:10:21,716  INFO AdminApplicationClient,main:72 - 2. View all users
+17:10:21,716  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:10:21,717  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:10:21,717  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:10:21,717  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:10:21,717  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:10:21,717  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:10:21,718  INFO AdminApplicationClient,main:79 - 0. Logout
+17:10:23,851  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+17:10:23,852  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+17:10:23,852  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+--------------+
+| User-ID            | Username     |
++--------------------+--------------+
+| -1812652032        | check3       |
+| 3456               | ShazamOnFire |
+| 12345678           | Beelzubub    |
+| 772785197387423744 | ghgh         |
++--------------------+--------------+
+
+17:10:23,852  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:10:23,853  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:10:23,853  INFO AdminApplicationClient,main:72 - 2. View all users
+17:10:23,853  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:10:23,854  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:10:23,854  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:10:23,856  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:10:23,856  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:10:23,856  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:10:23,857  INFO AdminApplicationClient,main:79 - 0. Logout
+17:10:33,123  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+17:10:34,993 ERROR SMSApplicationClient,main:155 - For input string: "772785197387423744"
+17:10:34,993  INFO SMSApplicationClient,main:51 - 1) login
+17:10:34,993  INFO SMSApplicationClient,main:52 - 2) student registration
+17:10:34,994  INFO SMSApplicationClient,main:53 - any other number to exist
+17:12:30,499  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+17:12:30,502  INFO SMSApplicationClient,main:51 - 1) login
+17:12:30,502  INFO SMSApplicationClient,main:52 - 2) student registration
+17:12:30,503  INFO SMSApplicationClient,main:53 - any other number to exist
+17:12:34,869  INFO SMSApplicationClient,main:110 - Enter username
+17:12:38,592  INFO SMSApplicationClient,main:112 - Enter password
+17:12:41,798  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+17:12:41,798  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 17:12:41 IST 2020
+17:12:41,814  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:12:41,815  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:12:41,815  INFO AdminApplicationClient,main:72 - 2. View all users
+17:12:41,815  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:12:41,815  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:12:41,816  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:12:41,816  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:12:41,816  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:12:41,816  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:12:41,817  INFO AdminApplicationClient,main:79 - 0. Logout
+17:12:45,341  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+17:12:45,341  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+17:12:45,342  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+--------------+
+| User-ID            | Username     |
++--------------------+--------------+
+| -1812652032        | check3       |
+| 3456               | ShazamOnFire |
+| 12345678           | Beelzubub    |
+| 772785197387423744 | ghgh         |
++--------------------+--------------+
+
+17:12:45,343  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:12:45,343  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:12:45,344  INFO AdminApplicationClient,main:72 - 2. View all users
+17:12:45,344  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:12:45,344  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:12:45,346  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:12:45,346  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:12:45,346  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:12:45,347  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:12:45,347  INFO AdminApplicationClient,main:79 - 0. Logout
+17:12:58,344  INFO AdminApplicationClient,main:96 - Enter user id to approve user : 
+17:13:01,011  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:13:01,011  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:13:01,011  INFO AdminApplicationClient,main:72 - 2. View all users
+17:13:01,012  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:13:01,012  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:13:01,012  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:13:01,012  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:13:01,013  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:13:01,013  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:13:01,013  INFO AdminApplicationClient,main:79 - 0. Logout
+17:13:06,130  INFO SMSApplicationClient,main:165 - ##################### Logged out at: Mon Nov 02 17:13:06 IST 2020 ###################
+17:13:06,131  INFO SMSApplicationClient,main:51 - 1) login
+17:13:06,131  INFO SMSApplicationClient,main:52 - 2) student registration
+17:13:06,131  INFO SMSApplicationClient,main:53 - any other number to exist
+17:13:08,027  INFO SMSApplicationClient,main:110 - Enter username
+17:13:10,497  INFO SMSApplicationClient,main:112 - Enter password
+17:13:12,768 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+17:13:12,768 ERROR SMSApplicationClient,main:155 - No such user exists. Try Again!
+17:13:12,768  INFO SMSApplicationClient,main:51 - 1) login
+17:13:12,768  INFO SMSApplicationClient,main:52 - 2) student registration
+17:13:12,769  INFO SMSApplicationClient,main:53 - any other number to exist
+17:13:40,129  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+17:13:40,132  INFO SMSApplicationClient,main:51 - 1) login
+17:13:40,132  INFO SMSApplicationClient,main:52 - 2) student registration
+17:13:40,133  INFO SMSApplicationClient,main:53 - any other number to exist
+17:14:14,558  INFO SMSApplicationClient,main:110 - Enter username
+17:14:16,649  INFO SMSApplicationClient,main:112 - Enter password
+17:14:19,663  INFO SMSApplicationClient,main:121 - ghgh logged in as Student
+17:14:19,663  INFO SMSApplicationClient,main:122 - ghgh logged in at : Mon Nov 02 17:14:19 IST 2020
+17:14:19,680  INFO StudentApplicationClient,main:73 - Enter your choice:
+17:14:19,680  INFO StudentApplicationClient,main:74 - 1. View all courses
+17:14:19,680  INFO StudentApplicationClient,main:75 - 2. Select course
+17:14:19,680  INFO StudentApplicationClient,main:76 - 3. Drop course
+17:14:19,680  INFO StudentApplicationClient,main:77 - 4. View registered courses
+17:14:19,681  INFO StudentApplicationClient,main:78 - 5. Pay fees
+17:14:19,681  INFO StudentApplicationClient,main:79 - 6. View Report Card
+17:14:19,681  INFO StudentApplicationClient,main:80 - 0. Logout
+17:19:23,867  INFO SMSApplicationClient,main:165 - ##################### Logged out at: Mon Nov 02 17:19:23 IST 2020 ###################
+17:19:23,868  INFO SMSApplicationClient,main:51 - 1) login
+17:19:23,868  INFO SMSApplicationClient,main:52 - 2) student registration
+17:19:23,869  INFO SMSApplicationClient,main:53 - any other number to exist
+17:19:25,498  INFO SMSApplicationClient,main:110 - Enter username
+17:19:28,932  INFO SMSApplicationClient,main:112 - Enter password
+17:19:31,819  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+17:19:31,820  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 17:19:31 IST 2020
+17:19:31,827  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:19:31,827  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:19:31,828  INFO AdminApplicationClient,main:72 - 2. View all users
+17:19:31,828  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:19:31,828  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:19:31,829  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:19:31,829  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:19:31,829  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:19:31,830  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:19:31,830  INFO AdminApplicationClient,main:79 - 0. Logout
+17:36:15,761  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+17:36:15,762  INFO AdminApplicationClient,main:70 - Enter your choice : 
+17:36:15,762  INFO AdminApplicationClient,main:71 - 1. View all courses
+17:36:15,762  INFO AdminApplicationClient,main:72 - 2. View all users
+17:36:15,763  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+17:36:15,763  INFO AdminApplicationClient,main:74 - 4. Register new user
+17:36:15,763  INFO AdminApplicationClient,main:75 - 5. Delete user
+17:36:15,763  INFO AdminApplicationClient,main:76 - 6. Add new course
+17:36:15,764  INFO AdminApplicationClient,main:77 - 7. Drop course
+17:36:15,764  INFO AdminApplicationClient,main:78 - 8. Approve user
+17:36:15,764  INFO AdminApplicationClient,main:79 - 0. Logout
+19:59:45,136  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+19:59:45,144  INFO AdminApplicationClient,main:70 - Enter your choice : 
+19:59:45,144  INFO AdminApplicationClient,main:71 - 1. View all courses
+19:59:45,145  INFO AdminApplicationClient,main:72 - 2. View all users
+19:59:45,145  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+19:59:45,145  INFO AdminApplicationClient,main:74 - 4. Register new user
+19:59:45,146  INFO AdminApplicationClient,main:75 - 5. Delete user
+19:59:45,146  INFO AdminApplicationClient,main:76 - 6. Add new course
+19:59:45,146  INFO AdminApplicationClient,main:77 - 7. Drop course
+19:59:45,198  INFO AdminApplicationClient,main:78 - 8. Approve user
+19:59:45,198  INFO AdminApplicationClient,main:79 - 0. Logout
+19:59:49,474  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+19:59:49,475  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++---------+----------+
+| User-ID | Username |
++---------+----------+
+| 1998    | nayaProf |
++---------+----------+
+
+19:59:49,475  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+--------------+
+| User-ID            | Username     |
++--------------------+--------------+
+| 3456               | ShazamOnFire |
+| 12345678           | Beelzubub    |
+| 772785197387423744 | ghgh         |
++--------------------+--------------+
+
+19:59:49,476  INFO AdminApplicationClient,main:70 - Enter your choice : 
+19:59:49,477  INFO AdminApplicationClient,main:71 - 1. View all courses
+19:59:49,477  INFO AdminApplicationClient,main:72 - 2. View all users
+19:59:49,478  INFO AdminApplicationClient,main:73 - 3. Assign course to a professor
+19:59:49,480  INFO AdminApplicationClient,main:74 - 4. Register new user
+19:59:49,481  INFO AdminApplicationClient,main:75 - 5. Delete user
+19:59:49,482  INFO AdminApplicationClient,main:76 - 6. Add new course
+19:59:49,482  INFO AdminApplicationClient,main:77 - 7. Drop course
+19:59:49,483  INFO AdminApplicationClient,main:78 - 8. Approve user
+19:59:49,483  INFO AdminApplicationClient,main:79 - 0. Logout
+20:00:31,825  INFO AdminApplicationClient,main:132 - 1 - add new admin
+20:00:31,825  INFO AdminApplicationClient,main:133 - 2 - add new professor
+20:00:31,826  INFO AdminApplicationClient,main:134 - 3 - add new student
+20:00:33,926  INFO AdminApplicationClient,main:136 - Enter username
+20:00:47,809  INFO AdminApplicationClient,main:138 - Enter userid
+20:03:19,976  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+20:03:19,979  INFO SMSApplicationClient,main:51 - 1) login
+20:03:19,980  INFO SMSApplicationClient,main:52 - 2) student registration
+20:03:19,980  INFO SMSApplicationClient,main:53 - any other number to exist
+20:03:47,108  INFO SMSApplicationClient,main:110 - Enter username
+20:03:54,075  INFO SMSApplicationClient,main:112 - Enter password
+20:03:57,029  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+20:03:57,030  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 20:03:57 IST 2020
+20:03:57,055  INFO AdminApplicationClient,main:71 - Enter your choice : 
+20:03:57,055  INFO AdminApplicationClient,main:72 - 1. View all courses
+20:03:57,056  INFO AdminApplicationClient,main:73 - 2. View all users
+20:03:57,056  INFO AdminApplicationClient,main:74 - 3. Assign course to a professor
+20:03:57,056  INFO AdminApplicationClient,main:75 - 4. Register new user
+20:03:57,056  INFO AdminApplicationClient,main:76 - 5. Delete user
+20:03:57,057  INFO AdminApplicationClient,main:77 - 6. Add new course
+20:03:57,057  INFO AdminApplicationClient,main:78 - 7. Drop course
+20:03:57,057  INFO AdminApplicationClient,main:79 - 8. Approve user
+20:03:57,057  INFO AdminApplicationClient,main:80 - 0. Logout
+20:04:02,926  INFO AdminApplicationClient,main:133 - 1 - add new admin
+20:04:02,927  INFO AdminApplicationClient,main:134 - 2 - add new professor
+20:04:02,927  INFO AdminApplicationClient,main:135 - 3 - add new student
+20:04:05,060  INFO AdminApplicationClient,main:137 - Enter username
+20:04:15,289  INFO AdminApplicationClient,main:170 - Enter professor id : 
+20:04:36,125  INFO AdminApplicationClient,main:172 - Enter professor name : 
+20:04:44,243  INFO AdminApplicationClient,main:174 - Enter professor email : 
+20:05:09,550  INFO AdminApplicationClient,main:176 - Enter password : 
+20:05:15,919  INFO AdminApplicationClient,main:178 - Enter gender: 'm' for male and 'f' for female : 
+20:05:18,915  INFO AdminApplicationClient,main:71 - Enter your choice : 
+20:05:18,917  INFO AdminApplicationClient,main:72 - 1. View all courses
+20:05:18,917  INFO AdminApplicationClient,main:73 - 2. View all users
+20:05:18,918  INFO AdminApplicationClient,main:74 - 3. Assign course to a professor
+20:05:18,919  INFO AdminApplicationClient,main:75 - 4. Register new user
+20:05:18,920  INFO AdminApplicationClient,main:76 - 5. Delete user
+20:05:18,920  INFO AdminApplicationClient,main:77 - 6. Add new course
+20:05:18,921  INFO AdminApplicationClient,main:78 - 7. Drop course
+20:05:18,921  INFO AdminApplicationClient,main:79 - 8. Approve user
+20:05:18,921  INFO AdminApplicationClient,main:80 - 0. Logout
+21:21:35,067  INFO AdminServiceImpl,main:36 - The user with username atestUser added
+21:21:35,270  INFO AdminServiceImpl,main:52 - The user with user ID 112347 deleted
+21:21:35,355  INFO AdminServiceImpl,main:36 - The user with username ptestUser added
+21:21:35,538  INFO AdminServiceImpl,main:52 - The user with user ID 112346 deleted
+21:21:35,543 ERROR AuthServiceImpl,main:31 - User does not exist. Invalid Credentials.
+21:21:35,638  INFO AdminServiceImpl,main:36 - The user with username stestUser added
+21:21:35,782  INFO AdminServiceImpl,main:52 - The user with user ID 112345 deleted
+21:57:36,940  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+21:57:36,945  INFO SMSApplicationClient,main:51 - 1) login
+21:57:36,946  INFO SMSApplicationClient,main:52 - 2) student registration
+21:57:36,946  INFO SMSApplicationClient,main:53 - any other number to exist
+22:04:34,062  INFO SMSApplicationClient,main:110 - Enter username
+22:04:36,695  INFO SMSApplicationClient,main:112 - Enter password
+22:04:40,775  INFO SMSApplicationClient,main:121 - ghgh logged in as Student
+22:04:40,775  INFO SMSApplicationClient,main:122 - ghgh logged in at : Mon Nov 02 22:04:40 IST 2020
+22:04:40,889  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:04:40,890  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:04:40,891  INFO StudentApplicationClient,main:74 - 2. Select course
+22:04:40,892  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:04:40,894  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:04:40,895  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:04:40,896  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:04:40,897  INFO StudentApplicationClient,main:79 - 0. Logout
+22:04:59,621  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+22:04:59,621  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:04:59,621  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:04:59,622  INFO StudentApplicationClient,main:74 - 2. Select course
+22:04:59,622  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:04:59,622  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:04:59,623  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:04:59,623  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:04:59,624  INFO StudentApplicationClient,main:79 - 0. Logout
+22:07:15,417  INFO StudentApplicationClient,main:88 - Enter courseId
+22:07:17,943 ERROR StudentDAOImpl,main:56 - Cannot add or update a child row: a foreign key constraint fails (`test/registeredcourses`, CONSTRAINT `registeredcourses_ibfk_1` FOREIGN KEY (`courseid`) REFERENCES `coursecatalog` (`courseid`) ON DELETE CASCADE ON UPDATE CASCADE)
+22:07:17,943 ERROR StudentApplicationClient,main:93 - Could not select course. Try again.
+22:07:17,944  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:07:17,944  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:07:17,944  INFO StudentApplicationClient,main:74 - 2. Select course
+22:07:17,945  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:07:17,945  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:07:17,945  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:07:17,946  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:07:17,946  INFO StudentApplicationClient,main:79 - 0. Logout
+22:09:29,132  INFO StudentServiceImpl,main:64 - No registered courses
+22:09:29,133  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:09:29,133  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:09:29,133  INFO StudentApplicationClient,main:74 - 2. Select course
+22:09:29,134  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:09:29,134  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:09:29,134  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:09:29,135  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:09:29,135  INFO StudentApplicationClient,main:79 - 0. Logout
+22:09:49,156  INFO StudentApplicationClient,main:88 - Enter courseId
+22:10:10,965  INFO StudentApplicationClient,main:91 - Course selected successfully.
+22:10:10,966  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:10:10,966  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:10:10,966  INFO StudentApplicationClient,main:74 - 2. Select course
+22:10:10,966  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:10:10,966  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:10:10,966  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:10:10,967  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:10:10,967  INFO StudentApplicationClient,main:79 - 0. Logout
+22:10:10,967 ERROR SMSApplicationClient,main:155 - For input string: ""
+22:10:10,968  INFO SMSApplicationClient,main:51 - 1) login
+22:10:10,968  INFO SMSApplicationClient,main:52 - 2) student registration
+22:10:10,968  INFO SMSApplicationClient,main:53 - any other number to exist
+22:10:50,180  INFO SMSApplicationClient,main:44 - Exited
+22:11:00,353  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+22:11:00,357  INFO SMSApplicationClient,main:51 - 1) login
+22:11:00,357  INFO SMSApplicationClient,main:52 - 2) student registration
+22:11:00,359  INFO SMSApplicationClient,main:53 - any other number to exist
+22:11:01,876  INFO SMSApplicationClient,main:110 - Enter username
+22:11:04,115  INFO SMSApplicationClient,main:112 - Enter password
+22:11:06,975  INFO SMSApplicationClient,main:121 - ghgh logged in as Student
+22:11:06,976  INFO SMSApplicationClient,main:122 - ghgh logged in at : Mon Nov 02 22:11:06 IST 2020
+22:11:06,992  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:11:06,992  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:11:06,993  INFO StudentApplicationClient,main:74 - 2. Select course
+22:11:06,993  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:11:06,993  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:11:06,993  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:11:06,994  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:11:06,994  INFO StudentApplicationClient,main:79 - 0. Logout
+22:11:09,504  INFO StudentApplicationClient,main:102 - Enter course id:
+22:11:11,188  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:11:11,188  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:11:11,189  INFO StudentApplicationClient,main:74 - 2. Select course
+22:11:11,189  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:11:11,189  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:11:11,189  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:11:11,190  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:11:11,190  INFO StudentApplicationClient,main:79 - 0. Logout
+22:11:58,960  INFO StudentApplicationClient,main:88 - Enter courseId
+22:12:01,521  INFO StudentApplicationClient,main:91 - Course selected successfully.
+22:12:01,521  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:12:01,526  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:12:01,526  INFO StudentApplicationClient,main:74 - 2. Select course
+22:12:01,526  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:12:01,527  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:12:01,527  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:12:01,527  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:12:01,527  INFO StudentApplicationClient,main:79 - 0. Logout
+22:12:05,627  INFO StudentApplicationClient,main:116 - To pay Rs.99999999 press 'y' to continue else press 'n'...
+22:12:14,667  INFO StudentApplicationClient,main:130 - Payment Unsuccessful
+22:12:14,668  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:12:14,668  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:12:14,669  INFO StudentApplicationClient,main:74 - 2. Select course
+22:12:14,669  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:12:14,669  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:12:14,670  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:12:14,670  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:12:14,671  INFO StudentApplicationClient,main:79 - 0. Logout
+22:12:17,514  INFO StudentApplicationClient,main:88 - Enter courseId
+22:12:20,394  INFO StudentApplicationClient,main:91 - Course selected successfully.
+22:12:20,394  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:12:20,395  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:12:20,395  INFO StudentApplicationClient,main:74 - 2. Select course
+22:12:20,395  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:12:20,395  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:12:20,395  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:12:20,396  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:12:20,396  INFO StudentApplicationClient,main:79 - 0. Logout
+22:12:22,723  INFO StudentApplicationClient,main:116 - To pay Rs.100039999 press 'y' to continue else press 'n'...
+22:15:04,969  INFO StudentApplicationClient,main:118 - Enter 1 to pay with credit card.
+22:15:04,969  INFO StudentApplicationClient,main:119 - Enter 2 to pay with debit card.
+22:15:04,970  INFO StudentApplicationClient,main:120 - Enter 3 to pay as cash.
+22:15:10,170 ERROR StudentDAOImpl,main:253 - Unknown column 'isregistered' in 'field list'
+22:15:10,171 ERROR StudentDAOImpl,main:265 - Payment Failed
+22:15:10,171  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:15:10,171  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:15:10,171  INFO StudentApplicationClient,main:74 - 2. Select course
+22:15:10,171  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:15:10,172  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:15:10,172  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:15:10,172  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:15:10,172  INFO StudentApplicationClient,main:79 - 0. Logout
+22:18:06,660  INFO SMSApplicationClient,main:40 - Welcome to student management system!!
+22:18:06,664  INFO SMSApplicationClient,main:51 - 1) login
+22:18:06,665  INFO SMSApplicationClient,main:52 - 2) student registration
+22:18:06,665  INFO SMSApplicationClient,main:53 - any other number to exist
+22:18:10,580  INFO SMSApplicationClient,main:110 - Enter username
+22:18:12,142  INFO SMSApplicationClient,main:112 - Enter password
+22:18:15,361  INFO SMSApplicationClient,main:121 - ghgh logged in as Student
+22:18:15,362  INFO SMSApplicationClient,main:122 - ghgh logged in at : Mon Nov 02 22:18:15 IST 2020
+22:18:15,388  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:18:15,389  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:18:15,389  INFO StudentApplicationClient,main:74 - 2. Select course
+22:18:15,389  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:18:15,389  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:18:15,390  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:18:15,390  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:18:15,390  INFO StudentApplicationClient,main:79 - 0. Logout
+22:18:19,668  INFO StudentServiceImpl,main:96 - ############# Report Card ################
+22:18:19,670  INFO StudentServiceImpl,main:97 - Course	Grade
+22:18:19,675  INFO StudentServiceImpl,main:98 - CS	null
+22:18:19,676  INFO StudentServiceImpl,main:98 - Data Structures	null
+22:18:19,677  INFO StudentServiceImpl,main:99 - ###########################################
+22:18:19,678  INFO StudentApplicationClient,main:72 - Enter your choice:
+22:18:19,679  INFO StudentApplicationClient,main:73 - 1. View all courses
+22:18:19,679  INFO StudentApplicationClient,main:74 - 2. Select course
+22:18:19,679  INFO StudentApplicationClient,main:75 - 3. Drop course
+22:18:19,680  INFO StudentApplicationClient,main:76 - 4. View registered courses
+22:18:19,681  INFO StudentApplicationClient,main:77 - 5. Pay fees
+22:18:19,681  INFO StudentApplicationClient,main:78 - 6. View Report Card
+22:18:19,681  INFO StudentApplicationClient,main:79 - 0. Logout
+22:23:20,594  INFO SMSApplicationClient,main:165 - ##################### Logged out at: Mon Nov 02 22:23:20 IST 2020 ###################
+22:23:20,602  INFO SMSApplicationClient,main:51 - 1) login
+22:23:20,603  INFO SMSApplicationClient,main:52 - 2) student registration
+22:23:20,603  INFO SMSApplicationClient,main:53 - any other number to exist
+22:23:23,826  INFO SMSApplicationClient,main:110 - Enter username
+22:23:27,738  INFO SMSApplicationClient,main:112 - Enter password
+22:23:29,744  INFO SMSApplicationClient,main:121 - teesraAdmin logged in as Admin
+22:23:29,749  INFO SMSApplicationClient,main:122 - teesraAdmin logged in at : Mon Nov 02 22:23:29 IST 2020
+22:23:29,804  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:23:29,804  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:23:29,804  INFO AdminApplicationClient,main:71 - 2. View all users
+22:23:29,805  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:23:29,805  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:23:29,805  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:23:29,805  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:23:29,805  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:23:29,805  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:23:29,806  INFO AdminApplicationClient,main:78 - 0. Logout
+22:23:33,850  INFO UserServiceImpl,main:41 - 
+################## ALL Courses ####################
++-----------+-----------------+----------+---------------------+
+| Course-Id | Course-Name     | Fees     | Course-Description  |
++-----------+-----------------+----------+---------------------+
+| 101       | Data Structures | 99999999 | We teach everything |
+| 102       | CS              | 40000    | Computer Science    |
++-----------+-----------------+----------+---------------------+
+###################################################
+
+22:23:33,851  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:23:33,851  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:23:33,852  INFO AdminApplicationClient,main:71 - 2. View all users
+22:23:33,852  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:23:33,859  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:23:33,859  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:23:33,860  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:23:33,860  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:23:33,860  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:23:33,860  INFO AdminApplicationClient,main:78 - 0. Logout
+22:23:38,019  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+22:23:38,020  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++--------------------+----------+
+| User-ID            | Username |
++--------------------+----------+
+| 1998               | nayaProf |
+| 772830942891155456 | ABalyan  |
++--------------------+----------+
+
+22:23:38,020  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+-----------+
+| User-ID            | Username  |
++--------------------+-----------+
+| 12345678           | Beelzubub |
+| 772785197387423744 | ghgh      |
++--------------------+-----------+
+
+22:23:38,021  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:23:38,022  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:23:38,022  INFO AdminApplicationClient,main:71 - 2. View all users
+22:23:38,023  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:23:38,023  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:23:38,024  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:23:38,025  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:23:38,025  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:23:38,026  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:23:38,026  INFO AdminApplicationClient,main:78 - 0. Logout
+22:25:40,585  INFO AdminApplicationClient,main:84 - Enter Professor Id : 
+22:26:40,079  INFO AdminApplicationClient,main:88 - Enter Course Id : 
+22:26:43,404  INFO AdminServiceImpl,main:69 - The course with course ID 101 assigned to 261114091
+22:26:43,404  INFO AdminApplicationClient,main:92 - Course successfully assigned to professor
+22:26:43,404  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:26:43,405  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:26:43,405  INFO AdminApplicationClient,main:71 - 2. View all users
+22:26:43,405  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:26:43,405  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:26:43,406  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:26:43,406  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:26:43,406  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:26:43,406  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:26:43,406  INFO AdminApplicationClient,main:78 - 0. Logout
+22:26:59,886  INFO AdminApplicationClient,main:148 - 1 - add new admin
+22:26:59,886  INFO AdminApplicationClient,main:149 - 2 - add new professor
+22:26:59,886  INFO AdminApplicationClient,main:150 - 3 - add new student
+22:27:06,638  INFO AdminApplicationClient,main:152 - Enter username
+22:27:18,330  INFO AdminApplicationClient,main:220 - Enter student id : 
+22:27:27,653  INFO AdminApplicationClient,main:222 - Enter student name : 
+22:27:32,637  INFO AdminApplicationClient,main:224 - Enter password : 
+22:27:35,366  INFO AdminApplicationClient,main:226 - Enter branch : 
+22:27:45,132  INFO AdminApplicationClient,main:228 - Enter semester:
+22:27:47,985  INFO AdminApplicationClient,main:230 - Enter gender: 'm' for male and 'f' for female
+22:27:49,893  INFO AdminApplicationClient,main:242 - Neha was registered as a student.
+22:27:49,893  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:27:49,893  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:27:49,893  INFO AdminApplicationClient,main:71 - 2. View all users
+22:27:49,894  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:27:49,894  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:27:49,894  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:27:49,895  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:27:49,895  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:27:49,895  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:27:49,895  INFO AdminApplicationClient,main:78 - 0. Logout
+22:27:57,142  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+22:27:57,142  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++--------------------+----------+
+| User-ID            | Username |
++--------------------+----------+
+| 1998               | nayaProf |
+| 772830942891155456 | ABalyan  |
++--------------------+----------+
+
+22:27:57,142  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+-----------+
+| User-ID            | Username  |
++--------------------+-----------+
+| 12345678           | Beelzubub |
+| 772785197387423744 | ghgh      |
+| 772866942773866496 | XYZ       |
++--------------------+-----------+
+
+22:27:57,143  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:27:57,143  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:27:57,143  INFO AdminApplicationClient,main:71 - 2. View all users
+22:27:57,144  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:27:57,144  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:27:57,144  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:27:57,145  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:27:57,145  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:27:57,145  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:27:57,145  INFO AdminApplicationClient,main:78 - 0. Logout
+22:28:12,829  INFO AdminApplicationClient,main:252 - Enter user id:
+22:28:15,915  INFO AdminServiceImpl,main:52 - The user with user ID 12345678 deleted
+22:28:15,916  INFO AdminApplicationClient,main:254 - User deleted successfully.
+22:28:15,916  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:28:15,916  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:28:15,916  INFO AdminApplicationClient,main:71 - 2. View all users
+22:28:15,917  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:28:15,917  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:28:15,917  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:28:15,917  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:28:15,918  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:28:15,929  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:28:15,929  INFO AdminApplicationClient,main:78 - 0. Logout
+22:28:19,653  INFO AdminServiceImpl,main:114 - 
+################## Admins ########################
++---------+-------------+
+| User-ID | Username    |
++---------+-------------+
+| 111     | teesraAdmin |
++---------+-------------+
+
+22:28:19,654  INFO AdminServiceImpl,main:117 - 
+################## Professors ####################
++--------------------+----------+
+| User-ID            | Username |
++--------------------+----------+
+| 1998               | nayaProf |
+| 772830942891155456 | ABalyan  |
++--------------------+----------+
+
+22:28:19,654  INFO AdminServiceImpl,main:120 - 
+################## Students ######################
++--------------------+----------+
+| User-ID            | Username |
++--------------------+----------+
+| 772785197387423744 | ghgh     |
+| 772866942773866496 | XYZ      |
++--------------------+----------+
+
+22:28:19,654  INFO AdminApplicationClient,main:69 - Enter your choice : 
+22:28:19,655  INFO AdminApplicationClient,main:70 - 1. View all courses
+22:28:19,655  INFO AdminApplicationClient,main:71 - 2. View all users
+22:28:19,655  INFO AdminApplicationClient,main:72 - 3. Assign course to a professor
+22:28:19,655  INFO AdminApplicationClient,main:73 - 4. Register new user
+22:28:19,656  INFO AdminApplicationClient,main:74 - 5. Delete user
+22:28:19,656  INFO AdminApplicationClient,main:75 - 6. Add new course
+22:28:19,656  INFO AdminApplicationClient,main:76 - 7. Drop course
+22:28:19,657  INFO AdminApplicationClient,main:77 - 8. Approve user
+22:28:19,657  INFO AdminApplicationClient,main:78 - 0. Logout
